@@ -1,0 +1,1446 @@
+{
+    "metadata": [
+        {
+            "names": "Abidjan",
+            "Latitude": 5.36,
+            "Longitude": -4.0083,
+            "aqi": 65,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 00:00:00"
+            }, 
+            { 
+            "names": "ACCRA",
+            "Latitude": 5.580642, 
+            "Longitude": -0.170724,
+            "aqi": 61,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 00:00:00" 
+            },
+            {
+            "names": "Adana",
+            "Latitude": 37.0040545100691,
+            "Longitude": 35.3440100793125,
+            "aqi": 20,
+            "DominantPollutant": "pm10",
+            "datetime": "2020-04-15 10:00:00"
+            },
+            {
+            "names": "ADDIS ABABA",
+            "Latitude": 9.058498,
+            "Longitude": 38.761642,
+            "aqi": 59,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 03:00:00"
+            },
+            {
+            "names": "Adelaide",
+            "Latitude": -34.929051,
+            "Longitude": 138.601092,
+            "aqi": 16,
+            "DominantPollutant": "pm10",
+            "datetime": "2020-04-16 09:00:00" 
+            },
+            { 
+            "names": "Agra",
+            "Latitude": 27.19865833,
+            "Longitude": 78.00598056,
+            "aqi": 5,
+            "DominantPollutant": "so2",
+            "datetime": "2020-04-16 06:00:00"
+            },
+            {
+            "names": "Ahmadabad",
+            "Latitude": 22.9987886,
+            "Longitude": 72.6029661,
+            "aqi": 130,
+            "DominantPollutant": "pm25", 
+            "datetime": "2020-04-16 04:00:00"
+            },
+            { 
+            "names": "Alexandria",
+            "Latitude": 38.8577,
+            "Longitude": -77.05922,
+            "aqi": 31,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-15 19:00:00"
+            },
+            {
+            "names": "ALGIERS",
+            "Latitude": 36.7558,
+            "Longitude": 3.039114,
+            "aqi": 57,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 01:00:00"
+            },
+            {
+            "names": "ALMATY",
+            "Latitude": 43.222,
+            "Longitude": 76.851,
+            "aqi": 93,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 06:00:00"
+            },
+            {
+            "names": "AMMAN",
+            "Latitude": 31.93544,
+            "Longitude": 35.94458,
+            "aqi": 20,
+            "DominantPollutant": "pm10",
+            "datetime": "2020-04-16 00:00:00"
+            },
+            {
+            "names": "Amritsar",
+            "Latitude": 31.6199803,
+            "Longitude": 74.8764849,
+            "aqi": 69,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 06:00:00"
+            },
+            {
+            "names": "ANKARA",
+            "Latitude": 39.92727454762165,
+            "Longitude": 32.85941127954306,
+            "aqi": 81,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 02:00:00"
+            },
+            {
+            "names": "Anshan",
+            "Latitude": 41.108546,
+            "Longitude": 122.994646,
+            "aqi": 155,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 08:00:00"
+            },
+            {
+            "names": "BAGHDAD",
+            "Latitude": 33.3128,
+            "Longitude": 44.3615,
+            "aqi": 65,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 03:00:00"
+            },        
+            {  
+            "names": "Bangalore",
+            "Latitude": 12.938539,
+            "Longitude": 77.5901,
+            "aqi": 91,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-12 15:00:00"
+            }, 
+            {
+            "names": "BANGKOK",
+            "Latitude": 13.7563309,
+            "Longitude": 100.5017651,
+            "aqi": 65,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 07:00:00"
+            },
+            {
+            "names": "Baotou",
+            "Latitude": 40.657449,
+            "Longitude": 109.840347,
+            "aqi": 165,
+            "DominantPollutant": "pm10",
+            "datetime": "2020-04-16 08:00:00"
+            },
+            {
+            "names": "Barcelona",
+            "Latitude": 41.38534,
+            "Longitude": 2.153822,
+            "aqi": 31,
+            "DominantPollutant": "o3",
+            "datetime": "2020-04-16 02:00:00"
+            },
+            { 
+            "names": "BEIJING",
+            "Latitude": 39.954592,
+            "Longitude": 116.468117,
+            "aqi": 13,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 09:00:00"
+            },
+            { 
+            "names": "Belem",
+            "Latitude": 31.768319,
+            "Longitude": 35.21371,
+            "aqi": 53,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 02:00:00"
+            },
+            {
+            "names": "BELGRADE",
+            "Latitude": 44.79880556,
+            "Longitude": 20.450305555556,
+            "aqi": 85,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 01:00:00"
+            },
+            { 
+            "names": "BERLIN",
+            "Latitude": 52.5200066,
+            "Longitude": 13.404954,
+            "aqi": 50,
+            "DominantPollutant": "pm10",
+            "datetime": "2020-04-16 02:00:00"
+            },
+            {
+            "names": "Bhopal",
+            "Latitude": 23.233584,
+            "Longitude": 77.400574,
+            "aqi": 175,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 06:00:00"
+            },
+            {
+            "names": "Birmingham",
+            "Latitude": 52.486243,
+            "Longitude": -1.890401,
+            "aqi": 115,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-15 22:00:00"
+            },
+            {
+            "names": "BOGOTA",
+            "Latitude": 4.5725,
+            "Longitude": -74.0836,
+            "aqi": 82,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-15 20:00:00"
+            },        
+            { 
+            "names": "BRASILIA",
+            "Latitude": -23.618442773,
+            "Longitude": -46.556353938,
+            "aqi": 34,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-15 21:00:00"
+            },
+            {
+            "names": "Brisbane",
+            "Latitude": -27.4774,
+            "Longitude": 153.028,
+            "aqi": 25,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 10:00:00"
+            },
+            {
+            "names": "BUCHAREST",
+            "Latitude": 44.435029,
+            "Longitude": 26.098609,
+            "aqi": 11,
+            "DominantPollutant": "pm10",
+            "datetime": "2020-04-16 04:00:00"
+            },
+            { 
+            "names": "BUDAPEST",
+            "Latitude": 47.508605,
+            "Longitude": 19.02764,
+            "aqi": 48,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 01:00:00"
+            },
+            {
+            "names": "BUENOS AIRES",
+            "Latitude": -34.657988,
+            "Longitude": -58.342538,
+            "aqi": 9,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-15 20:00:00"
+            },
+            {
+            "names": "Bursa",
+            "Latitude": 40.19572,
+            "Longitude": 29.04588,
+            "aqi": 61,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 01:00:00"
+            }, 
+            { 
+            "names": "Busan",
+            "Latitude": 35.1795543,
+            "Longitude": 129.0756416,
+            "aqi": 53,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 10:00:00"
+            },
+            {
+            "names": "Campinas",
+            "Latitude": -22.902524804,
+            "Longitude": -47.057210743,
+            "aqi": 15,
+            "DominantPollutant": "pm10",
+            "datetime": "2020-04-15 21:00:00"
+            },
+            {
+            "names": "Changchun",
+            "Latitude": 43.816964,
+            "Longitude": 125.323471,
+            "aqi": 411,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 08:00:00"
+            },
+            {
+            "names": "Changsha",
+            "Latitude": 28.228209,
+            "Longitude": 112.938814,
+            "aqi": 109,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 08:00:00"
+            },
+            { 
+            "names": "Changzhou",
+            "Latitude": 31.810077,
+            "Longitude": 119.974454,
+            "aqi": 151,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 08:00:00"
+            },
+            {
+            "names": "Chelyabinsk",
+            "Latitude": 55.17616,
+            "Longitude": 61.48267,
+            "aqi": 32,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 01:00:00"
+            },
+            {
+            "names": "Chengdu",
+            "Latitude": 30.6250145,
+            "Longitude": 104.0670559,
+            "aqi": 169,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 09:00:00"
+            },
+            {
+            "names": "Chennai",
+            "Latitude": 13.08784,
+            "Longitude": 80.27847,
+            "aqi": 63,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 06:00:00"
+            },
+            {
+            "names": "Chicago",
+            "Latitude": 41.9136,
+            "Longitude": -87.7239,
+            "aqi": "-",
+            "DominantPollutant": "",
+            "datetime": "2020-03-31 11:00:00"
+            },
+            { 
+            "names": "CONAKRY",
+            "Latitude": 9.5951,
+            "Longitude": -13.6364,
+            "aqi": 139,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 00:00:00" 
+            },
+            {
+            "names": "COPENHAGEN",
+            "Latitude": 55.6750137,
+            "Longitude": 12.5693995,
+            "aqi": 33,
+            "DominantPollutant": "o3",
+            "datetime": "2020-04-16 01:00:00"
+            },
+            {
+            "names": "Cordoba",
+            "Latitude": 37.8935004,
+            "Longitude": -4.7711062,
+            "aqi": 29,
+            "DominantPollutant": "o3",
+            "datetime": "2020-04-15 20:00:00"
+            },
+            {
+            "names": "Daegu",
+            "Latitude": 35.8714354,
+            "Longitude": 128.601445,
+            "aqi": 50,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 10:00:00"
+            },
+            {
+            "names": "Daejon",
+            "Latitude": 36.3504119,
+            "Longitude": 127.3845475,
+            "aqi": 74,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 10:00:00"
+            },
+            {
+            "names": "Dalian",
+            "Latitude": 38.914003,
+            "Longitude": 121.614682,
+            "aqi": 153,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 08:00:00"
+            },
+            {
+            "names": "Dallas",
+            "Latitude": 32.8200608,
+            "Longitude": -96.8601165,
+            "aqi": 39,
+            "DominantPollutant": "o3",
+            "datetime": "2020-04-15 18:00:00"
+            },
+            { 
+            "names": "Datong", 
+            "Latitude": 40.076816,
+            "Longitude": 113.300126, 
+            "aqi": 505,
+            "DominantPollutant": "pm10",
+            "datetime": "2020-04-16 08:00:00" 
+            },   
+            {
+            "names": "DELHI", 
+            "Latitude": 28.63576,
+            "Longitude": 77.22445, 
+            "aqi": 169,  
+            "DominantPollutant": "pm25",  
+            "datetime": "2020-04-16 06:00:00"  
+            },
+            {  
+            "names": "DHAKA", 
+            "Latitude": 23.796373,  
+            "Longitude": 90.424614, 
+            "aqi": 74,  
+            "DominantPollutant": "pm25", 
+            "datetime": "2020-04-16 06:00:00"   
+            }, 
+            { 
+            "names": "Dnipropetrovsk",
+            "Latitude": 48.458139, 
+            "Longitude": 35.052214,
+            "aqi": 13, 
+            "DominantPollutant": "pm25",  
+            "datetime": "2020-04-16 05:00:00" 
+            }, 
+            {   
+            "names": "Durban", 
+            "Latitude": -29.858283,    
+            "Longitude": 31.027286,  
+            "aqi": 25,   
+            "DominantPollutant": "pm25",   
+            "datetime": "2020-04-16 03:00:00"    
+            },    
+            {    
+            "names": "Ecatepec",   
+            "Latitude": 19.532968,   
+            "Longitude": -99.030324,  
+            "aqi": 80, "DominantPollutant": "pm25", 
+            "datetime": "2020-04-15 19:00:00" 
+            },    
+            {    
+            "names": "Foshan",  
+            "Latitude": 23.021548,       
+            "Longitude": 113.121416,  
+            "aqi": 109,    
+            "DominantPollutant": "pm25",   
+            "datetime": "2020-04-16 08:00:00"    
+            },  
+            {       
+            "names": "Fukuoka",  
+            "Latitude": 33.5903547,   
+            "Longitude": 130.4017155,
+            "aqi": 46,    
+            "DominantPollutant": "pm25",  
+            "datetime": "2020-04-16 08:00:00"  
+            },     
+            {        
+            "names": "Fuzhou",      
+            "Latitude": 26.074508,   
+            "Longitude": 119.296494,   
+            "aqi": 102,
+            "DominantPollutant": "pm25", 
+            "datetime": "2020-04-16 08:00:00"  
+            }, 
+            {    
+            "names": "Guadalajara",         
+            "Latitude": 20.680450840176, 
+            "Longitude": -103.39873310432,
+            "aqi": 36,     
+            "DominantPollutant": "o3", 
+            "datetime": "2020-04-15 19:00:00" 
+            },   
+            {   
+            "names": "Guangzhou", 
+            "Latitude": 23.141191, 
+            "Longitude": 113.258374, 
+            "aqi": 122,   
+            "DominantPollutant": "pm25",    
+            "datetime": "2020-04-16 08:00:00"  
+            }, 
+            { 
+            "names": "Guarulhos",   
+            "Latitude": -23.455534258,   
+            "Longitude": -46.518533403,  
+            "aqi": 42, 
+            "DominantPollutant": "pm25", 
+            "datetime": "2020-04-15 22:00:00"  
+            },   
+            {   
+            "names": "Guiyang",  
+            "Latitude": 26.647661,   
+            "Longitude": 106.630154,   
+            "aqi": 142, 
+            "DominantPollutant": "pm25",    
+            "datetime": "2020-04-16 08:00:00"
+            },  
+            {       
+            "names": "Gwangju", 
+            "Latitude": 35.1595454,
+            "Longitude": 126.8526012,   
+            "aqi": 119,  
+            "DominantPollutant": "pm25",     
+            "datetime": "2020-04-16 10:00:00"   
+            },  
+            {  
+            "names": "Haiphong",  
+            "Latitude": 21.0357507, 
+            "Longitude": 106.7641068, 
+            "aqi": 18, 
+            "DominantPollutant": "pm25", 
+            "datetime": "2020-04-16 05:00:00" 
+            },  
+            {  
+            "names": "Hamburg",   
+            "Latitude": 53.59235,    
+            "Longitude": 10.053724,  
+            "aqi": 38,   
+            "DominantPollutant": "pm25",  
+            "datetime": "2020-04-16 03:00:00" 
+            },  
+            {    
+            "names": "Handan",  
+            "Latitude": 36.625604,   
+            "Longitude": 114.539085,
+            "aqi": 158,  
+            "DominantPollutant": "pm25", 
+            "datetime": "2020-04-16 08:00:00"   
+            },
+            {          
+            "names": "Hangzhou", 
+            "Latitude": 30.274085,  
+            "Longitude": 120.15507,  
+            "aqi": 152,  
+            "DominantPollutant": "pm25", 
+            "datetime": "2020-04-16 08:00:00"  
+            },     
+            {       
+            "names": "HANOI",    
+            "Latitude": 21.0215063,   
+            "Longitude": 105.8188748,  
+            "aqi": 154, 
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 07:00:00"
+            },  
+            {    
+            "names": "Haora",   
+            "Latitude": 22.5707053, 
+            "Longitude": 88.3008448, 
+            "aqi": 100,     
+            "DominantPollutant": "pm25",         
+            "datetime": "2020-04-16 06:00:00"
+            },
+            {   
+            "names": "Harbin",
+            "Latitude": 45.7258,  
+            "Longitude": 126.646,  
+            "aqi": 161, 
+            "DominantPollutant": "pm25", 
+            "datetime": "2020-04-16 08:00:00"  
+            },   
+            {   
+            "names": "Hefei",   
+            "Latitude": 31.821448,    
+            "Longitude": 117.227271, 
+            "aqi": 63,  
+            "DominantPollutant": "pm25",  
+            "datetime": "2020-04-16 08:00:00"    
+            },  
+            {   
+            "names": "Hiroshima",   
+            "Latitude": 34.3852029,   
+            "Longitude": 132.4552927,  
+            "aqi": 17, 
+            "DominantPollutant": "pm25",        
+            "datetime": "2020-04-16 09:00:00" 
+            }, 
+            {  
+            "names": "Ho Chi Minh",  
+            "Latitude": 10.782978,   
+            "Longitude": 106.700711,     
+            "aqi": 91,  
+            "DominantPollutant": "pm25",  
+            "datetime": "2020-04-16 07:00:00"   
+            },  
+            {        
+            "names": "Hong Kong",  
+            "Latitude": 22.2796569,    
+            "Longitude": 114.1719873,    
+            "aqi": 89,  
+            "DominantPollutant": "pm25",  
+            "datetime": "2020-04-16 08:00:00" 
+            },
+            {  
+            "names": "Houston",  
+            "Latitude": 29.686389,  
+            "Longitude": -95.294722,     
+            "aqi": 36,     
+            "DominantPollutant": "o3",  
+            "datetime": "2020-04-15 18:00:00"  
+            }, 
+            {      
+            "names": "Hyderabad",        
+            "Latitude": 17.38405, 
+            "Longitude": 78.45636,  
+            "aqi": 104, 
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 06:00:00"   
+            },   
+            {  
+            "names": "Hyderabad",  
+            "Latitude": 17.38405, 
+            "Longitude": 78.45636,  
+            "aqi": 104,   
+            "DominantPollutant": "pm25",  
+            "datetime": "2020-04-16 06:00:00"   
+            },  
+            {  
+            "names": "Incheon",  
+            "Latitude": 37.4562557,     
+            "Longitude": 126.7052062, 
+            "aqi": 72,  
+            "DominantPollutant": "pm25",   
+            "datetime": "2020-04-16 10:00:00"  
+            },  
+            {  
+            "names": "Indore",
+            "Latitude": 22.719444, 
+            "Longitude": 75.870278, 
+            "aqi": 72,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 06:00:00" 
+            },    
+            {      
+            "names": "Istanbul", 
+            "Latitude": 41.014722,   
+            "Longitude": 28.954722,     
+            "aqi": 51, 
+            "DominantPollutant": "pm25",   
+            "datetime": "2020-04-16 02:00:00"  
+            },  
+            {     
+            "names": "Izmir",   
+            "Latitude": 38.432222, 
+            "Longitude": 27.144444,
+            "aqi": 19,     
+            "DominantPollutant": "pm10",   
+            "datetime": "2020-04-16 02:00:00"   
+            },    
+            {   
+            "names": "Jaipur",    
+            "Latitude": 26.9405166, 
+            "Longitude": 75.8007016,
+            "aqi": 96, 
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 06:00:00"
+            },      
+            {  
+            "names": "JAKARTA",  
+            "Latitude": -6.182536,  
+            "Longitude": 106.834236,   
+            "aqi": 127, 
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 07:00:00"  
+            },     
+            {   
+            "names": "Jeddah",  
+            "Latitude": 21.524667, 
+            "Longitude": 39.203088, 
+            "aqi": 37, 
+            "DominantPollutant": "o3",   
+            "datetime": "2020-04-16 01:39:00"  
+            },     
+            {      
+            "names": "Jilin", 
+            "Latitude": 43.837883,   
+            "Longitude": 126.549572,     
+            "aqi": 179,   
+            "DominantPollutant": "pm25",  
+            "datetime": "2020-04-16 08:00:00"  
+            },   
+            {    
+            "names": "Jinan", 
+            "Latitude": 36.650997,   
+            "Longitude": 117.120497,
+            "aqi": 139,   
+            "DominantPollutant": "pm25",        
+            "datetime": "2020-04-16 08:00:00"  
+            },      
+            {     
+            "names": "Johannesburg",  
+            "Latitude": -26.178666,   
+            "Longitude": 28.13314,
+            "aqi": 21,  
+            "DominantPollutant": "pm25",   
+            "datetime": "2020-04-16 03:00:00"
+            },  
+            {   
+            "names": "KABUL",   
+            "Latitude": 34.554382, 
+            "Longitude": 69.2046,   
+            "aqi": 117,  
+            "DominantPollutant": "pm25", 
+            "datetime": "2020-04-16 05:00:00" 
+            },  
+            {  
+            "names": "Kanpur",       
+            "Latitude": 26.4703088,
+            "Longitude": 80.3251749,
+            "aqi": 180,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 06:00:00"
+            },
+            {
+            "names": "Kaohsiung",
+            "Latitude": 22.608711,
+            "Longitude": 120.312017,
+            "aqi": 93,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 09:00:00"  
+            }, 
+            {            
+            "names": "Karachi",
+            "Latitude": 24.8415,
+            "Longitude": 67.0091,
+            "aqi": 82,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 05:00:00"
+            },        
+            {
+            "names": "Kawasaki",
+            "Latitude": 35.5309058,
+            "Longitude": 139.7030511,
+            "aqi": 50,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 08:00:00"
+            },
+            {            
+            "names": "KIEV",
+            "Latitude": 50.444,
+            "Longitude": 30.54,
+            "aqi": 15,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 05:00:00" 
+            },
+            {
+            "names": "Kitakyushu",
+            "Latitude": 33.8834093,
+            "Longitude": 130.8752161,
+            "aqi": 42,            
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-15 23:00:00"
+            },        
+            {
+            "names": "Kobe",
+            "Latitude": 34.690083,
+            "Longitude": 135.1955112,
+            "aqi": 70,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 09:00:00"
+            },
+            {
+            "names": "Kolkata",
+            "Latitude": 22.56263,
+            "Longitude": 88.36304,
+            "aqi": 95,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 06:00:00"
+            },
+            {
+            "names": "Kowloon",
+            "Latitude": 22.396428,
+            "Longitude": 114.109497,
+            "aqi": 89,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 08:00:00"
+            },
+            {
+            "names": "KUALA LUMPUR", 
+            "Latitude": 3.139003, 
+            "Longitude": 101.686855,  
+            "aqi": 55, 
+            "DominantPollutant": "",   
+            "datetime": "2020-04-16 08:00:00"    
+            },       
+            {     
+            "names": "Kunming", 
+            "Latitude": 24.880182,   
+            "Longitude": 102.832861,  
+            "aqi": 124, 
+            "DominantPollutant": "pm25",  
+            "datetime": "2020-04-16 08:00:00"  
+            },
+            {
+            "names": "Kyoto",
+            "Latitude": 35.0116363,
+            "Longitude": 135.7680294,
+            "aqi": 46,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 08:00:00" 
+            },
+            {
+            "names": "Lahore",
+            "Latitude": 31.560078,   
+            "Longitude": 74.33589,    
+            "aqi": 128,  
+            "DominantPollutant": "pm25",   
+            "datetime": "2020-04-16 05:00:00"     
+            },   
+            {  
+            "names": "Lanzhou",         
+            "Latitude": 36.061255,   
+            "Longitude": 103.834377,  
+            "aqi": 99, 
+            "DominantPollutant": "pm25",      
+            "datetime": "2020-04-16 08:00:00" 
+            }, 
+            {    
+            "names": "Leon",  
+            "Latitude": 42.603888888889,    
+            "Longitude": -5.587222222222, 
+            "aqi": 26,  
+            "DominantPollutant": "o3", 
+            "datetime": "2020-04-16 00:00:00"  
+            },   
+            {   
+            "names": "LIMA",   
+            "Latitude": -12.07053,   
+            "Longitude": -77.04317,  
+            "aqi": 37,   
+            "DominantPollutant": "pm25",     
+            "datetime": "2020-04-15 19:00:00" 
+            },   
+            {     
+            "names": "LONDON",  
+            "Latitude": 51.5073509, 
+            "Longitude": -0.1277583, 
+            "aqi": 86,  
+            "DominantPollutant": "pm25", 
+            "datetime": "2020-04-16 00:00:00" 
+            },  
+            { 
+            "names": "Los Angeles", 
+            "Latitude": 34.06653,    
+            "Longitude": -118.22676,   
+            "aqi": 42,  
+            "DominantPollutant": "o3",     
+            "datetime": "2020-04-15 16:00:00"      
+            }, 
+            { 
+            "names": "Lucknow",   
+            "Latitude": 26.84578611,    
+            "Longitude": 80.93874444, 
+            "aqi": 169, 
+            "DominantPollutant": "pm25",   
+            "datetime": "2020-04-16 06:00:00"  
+            },       
+            {    
+            "names": "Ludhiana",  
+            "Latitude": 30.9019147,
+            "Longitude": 75.8077749,   
+            "aqi": 101,  
+            "DominantPollutant": "pm25",  
+            "datetime": "2020-04-16 06:00:00"
+            }, 
+            {    
+            "names": "Luoyang",   
+            "Latitude": 34.618452, 
+            "Longitude": 112.45429,   
+            "aqi": 137,   
+            "DominantPollutant": "pm25",    
+            "datetime": "2020-04-16 08:00:00"   
+            },   
+            {        
+            "names": "MADRID",    
+            "Latitude": 40.4167754,    
+            "Longitude": -3.7037902,    
+            "aqi": 5,   
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 02:00:00"  
+            },  
+            {     
+            "names": "MANILA", 
+            "Latitude": 14.5995124,   
+            "Longitude": 120.9842195,  
+            "aqi": "-",  
+            "DominantPollutant": "",    
+            "datetime": ""   
+            },  
+            {      
+            "names": "Mashhad",    
+            "Latitude": 36.3382,
+            "Longitude": 59.5853,  
+            "aqi": 29,  
+            "DominantPollutant": "co", 
+            "datetime": "2020-04-16 04:00:00" 
+            }, 
+            {      
+            "names": "Mecca",     
+            "Latitude": 21.42463611, 
+            "Longitude": 39.82916667,
+            "aqi": 46,  
+            "DominantPollutant": "o3",  
+            "datetime": "2020-04-16 01:39:00"       
+            }, 
+            {       
+            "names": "Medan",   
+            "Latitude": 3.5951956,  
+            "Longitude": 98.6722227,
+            "aqi": 26,
+            "DominantPollutant": "pm10", 
+            "datetime": "2020-04-02 16:00:00"  
+            },
+            {    
+            "names": "Medellin",  
+            "Latitude": 6.252763,  
+            "Longitude": -75.569404,  
+            "aqi": 78, 
+            "DominantPollutant": "pm25", 
+            "datetime": "2020-04-15 20:00:00"
+            }, 
+            {  
+            "names": "Medina",  
+            "Latitude": 24.491075,
+            "Longitude": 39.58805556, 
+            "aqi": 22, 
+            "DominantPollutant": "pm10", 
+            "datetime": "2019-08-27 09:00:00"
+            },
+            {    
+            "names": "Meerut",  
+            "Latitude": 29.06351,      
+            "Longitude": 77.709723,   
+            "aqi": 226,  
+            "DominantPollutant": "pm10",   
+            "datetime": "2020-04-16 06:00:00"   
+            }, 
+            {   
+            "names": "Melbourne", 
+            "Latitude": -37.8073959,    
+            "Longitude": 144.97,  
+            "aqi": 58,  
+            "DominantPollutant": "pm25",  
+            "datetime": "2020-04-16 10:00:00"   
+            },  
+            {  
+            "names": "Mexicali", 
+            "Latitude": 32.603638888889,   
+            "Longitude": -115.4859444444,    
+            "aqi": 181,   
+            "DominantPollutant": "pm25", 
+            "datetime": "2019-12-14 01:00:00"  
+            }, 
+            {
+            "names": "MEXICO CITY",  
+            "Latitude": 19.42461,
+            "Longitude": -99.119594,    
+            "aqi": 89,    
+            "DominantPollutant": "pm25",   
+            "datetime": "2020-04-15 19:00:00"  
+            },    
+            {    
+            "names": "Milan",     
+            "Latitude": 45.470501,   
+            "Longitude": 9.19746075, 
+            "aqi": 53,     
+            "DominantPollutant": "pm25", 
+            "datetime": "2020-04-13 23:00:00"  
+            },  
+            {  
+            "names": "Monterrey", 
+            "Latitude": 25.73, 
+            "Longitude": -100.30972222222,      
+            "aqi": 63, 
+            "DominantPollutant": "pm25",  
+            "datetime": "2020-04-15 18:00:00"  
+            },  
+            {    
+            "names": "Montreal",  
+            "Latitude": 45.5086699, 
+            "Longitude": -73.5539925, 
+            "aqi": 12,  
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-15 19:00:00"    
+            }, 
+            {    
+            "names": "MOSCOW",   
+            "Latitude": 55.759354,    
+            "Longitude": 37.595584,   
+            "aqi": 12,  
+            "DominantPollutant": "o3",         
+            "datetime": "2020-04-16 04:00:00" 
+            },  
+            {     
+            "names": "Mumbai",  
+            "Latitude": 19.07283,
+            "Longitude": 72.88261, 
+            "aqi": 97,
+            "DominantPollutant": "pm25", 
+            "datetime": "2020-04-15 21:00:00"   
+            },  
+            {  
+            "names": "Munich", 
+            "Latitude": 48.1351253,       
+            "Longitude": 11.5819806, 
+            "aqi": 23, 
+            "DominantPollutant": "pm10", 
+            "datetime": "2020-04-15 20:00:00"  
+            }, 
+            {    
+            "names": "Nagoya", 
+            "Latitude": 35.1814464,    
+            "Longitude": 136.906398, 
+            "aqi": 21,     
+            "DominantPollutant": "pm10",    
+            "datetime": "2020-04-16 10:00:00"
+            }, 
+            {  
+            "names": "Nagpur",  
+            "Latitude": 21.152875, 
+            "Longitude": 79.0517531,
+            "aqi": 67,
+            "DominantPollutant": "pm25",  
+            "datetime": "2020-04-16 06:00:00"   
+            },   
+            {  
+            "names": "Nanchang",  
+            "Latitude": 28.683213,   
+            "Longitude": 115.858121,  
+            "aqi": 153, 
+            "DominantPollutant": "pm25",  
+            "datetime": "2020-04-16 08:00:00"  
+            },  
+            {  
+            "names": "Nanjing", 
+            "Latitude": 32.060255,  
+            "Longitude": 118.796877,  
+            "aqi": 82,  
+            "DominantPollutant": "pm25",   
+            "datetime": "2020-04-16 08:00:00"      
+            },  
+            {   
+            "names": "Nanning", 
+            "Latitude": 22.817239,  
+            "Longitude": 108.366129, 
+            "aqi": 112,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 08:00:00"
+            },    
+            {      
+            "names": "Napoli",  
+            "Latitude": 40.85361,  
+            "Longitude": 14.27167, 
+            "aqi": 1,    
+            "DominantPollutant": "so2",     
+            "datetime": "2020-04-16 01:00:00"   
+            },   
+            {   
+            "names": "Nashik", 
+            "Latitude": 20.0073285,     
+            "Longitude": 73.7762427,  
+            "aqi": 74,  
+            "DominantPollutant": "pm25",      
+            "datetime": "2020-04-16 06:00:00"   
+            },  
+            { 
+            "names": "New York", 
+            "Latitude": 40.7127837, 
+            "Longitude": -74.0059413,  
+            "aqi": 26,
+            "DominantPollutant": "pm25",    
+            "datetime": "2020-04-15 19:00:00" 
+            },  
+            {   
+            "names": "Nezahualcoyotl",    
+            "Latitude": 19.34561, 
+            "Longitude": -99.009381,  
+            "aqi": 87,    
+            "DominantPollutant": "pm25", 
+            "datetime": "2020-04-15 19:00:00"  
+            },  
+            { 
+            "names": "Nizhny Novgorod", 
+            "Latitude": 56.304354, 
+            "Longitude": 43.983103,   
+            "aqi": 47,  
+            "DominantPollutant": "pm25",  
+            "datetime": "2020-04-16 01:00:00"    
+            },   
+            {    
+            "names": "Novosibirsk",  
+            "Latitude": 55.026021,   
+            "Longitude": 82.907958,       
+            "aqi": 59,    
+            "DominantPollutant": "pm25",     
+            "datetime": "2020-04-16 08:00:00"  
+            },     
+            {     
+            "names": "Odessa",    
+            "Latitude": 46.39984,   
+            "Longitude": 30.732417, 
+            "aqi": 12, 
+            "DominantPollutant": "pm25", 
+            "datetime": "2020-04-16 05:00:00"  
+            },  
+            {     
+            "names": "Osaka", 
+            "Latitude": 34.6937378, 
+            "Longitude": 135.5021651,
+            "aqi": 59,  
+            "DominantPollutant": "pm25",   
+            "datetime": "2020-04-16 09:00:00"  
+            },  
+            {   
+            "names": "Palembang",  
+            "Latitude": -2.9760735,     
+            "Longitude": 104.7754307,    
+            "aqi": 4,  
+            "DominantPollutant": "pm10",    
+            "datetime": "2020-01-21 13:00:00"  
+            },    
+            {    
+            "names": "PARIS",  
+            "Latitude": 48.856614,    
+            "Longitude": 2.3522219,   
+            "aqi": 52,      
+            "DominantPollutant": "pm25",     
+            "datetime": "2020-04-16 01:00:00"   
+            },  
+            {      
+            "names": "Patna",   
+            "Latitude": 25.619651,
+            "Longitude": 85.147382,
+            "aqi": 89,      
+            "DominantPollutant": "pm25",   
+            "datetime": "2020-04-16 06:00:00"     
+            },      
+            {         
+            "names": "Perth",    
+            "Latitude": 56.396597,   
+            "Longitude": -3.4324,  
+            "aqi": 21,     
+            "DominantPollutant": "pm25",   
+            "datetime": "2020-04-15 23:00:00"    
+            },    
+            {    
+            "names": "Peshawar",    
+            "Latitude": 34.00585, 
+            "Longitude": 71.53775, 
+            "aqi": 95,   
+            "DominantPollutant": "pm25", 
+            "datetime": "2020-04-16 05:00:00"   
+            },     
+            {   
+            "names": "Philadelphia", 
+            "Latitude": 39.934635, 
+            "Longitude": -75.126126,         
+            "aqi": 44,     
+            "DominantPollutant": "pm25",       
+            "datetime": "2020-04-15 20:00:00"   
+            },     
+            {    
+            "names": "PHNOM PENH",      
+            "Latitude": 11.516002,   
+            "Longitude": 104.905362,   
+            "aqi": "-",   
+            "DominantPollutant": "",    
+            "datetime": "" 
+            },   
+            {  
+            "names": "Phoenix",   
+            "Latitude": 33.403055555556,    
+            "Longitude": -112.07527777778,    
+            "aqi": 46,    
+            "DominantPollutant": "o3",    
+            "datetime": "2020-04-15 16:00:00" 
+            },     
+            {     
+            "names": "PRAGUE",    
+            "Latitude": 50.094238,  
+            "Longitude": 14.442049, 
+            "aqi": 42,  
+            "DominantPollutant": "pm25", 
+            "datetime": "2020-04-16 02:00:00" 
+            },  
+            {     
+            "names": "Puebla",  
+            "Latitude": 18.987361111111,    
+            "Longitude": -98.277944444444,  
+            "aqi": 52, 
+            "DominantPollutant": "pm10",        
+            "datetime": "2020-04-15 19:00:00"  
+            },   
+            {    
+            "names": "Pune",
+            "Latitude": 18.536428,    
+            "Longitude": 73.805453,     
+            "aqi": 56,       
+            "DominantPollutant": "o3",     
+            "datetime": "2020-04-16 06:00:00"  
+            },       
+            {     
+            "names": "Qingdao",    
+            "Latitude": 36.067082,   
+            "Longitude": 120.38264, 
+            "aqi": 102,  
+            "DominantPollutant": "pm25", 
+            "datetime": "2020-04-16 09:00:00"    
+            },  
+            {   
+            "names": "Qiqihar",    
+            "Latitude": 47.354348,  
+            "Longitude": 123.918186,    
+            "aqi": 224,  
+            "DominantPollutant": "pm25",   
+            "datetime": "2020-04-16 08:00:00"   
+            },    
+            {  
+            "names": "QUITO", 
+            "Latitude": -0.221393,     
+            "Longitude": -78.514005, 
+            "aqi": 24,    
+            "DominantPollutant": "o3",
+            "datetime": "2020-04-15 19:00:00"      
+            },      
+            {   
+            "names": "Rawalpindi",    
+            "Latitude": 33.7235,       
+            "Longitude": 73.11822,    
+            "aqi": 87,  
+            "DominantPollutant": "pm25",   
+            "datetime": "2020-04-16 05:00:00"    
+            },        
+            {      
+            "names": "RIYADH",  
+            "Latitude": 24.644942,  
+            "Longitude": 46.722333, 
+            "aqi": 67,    
+            "DominantPollutant": "o3",         
+            "datetime": "2020-04-16 01:39:00"   
+            },    
+            {         
+            "names": "ROME",  
+            "Latitude": 41.8932669,  
+            "Longitude": 12.4753855,    
+            "aqi": 53,    
+            "DominantPollutant": "pm25",   
+            "datetime": "2020-04-14 23:00:00" 
+            },   
+            {  
+            "names": "Salvador",   
+            "Latitude": 13.70630556,  
+            "Longitude": -89.20011667,   
+            "aqi": 97,    
+            "DominantPollutant": "pm25", 
+            "datetime": "2020-04-15 17:00:00"        }, 
+            {           
+            "names": "San Antonio",  
+            "Latitude": 29.4072945,    
+            "Longitude": -98.431251,    
+            "aqi": 38,       
+            "DominantPollutant": "o3",  
+            "datetime": "2020-04-15 17:00:00"   
+            },      
+            {        
+            "names": "San Diego",   
+            "Latitude": 32.70148, 
+            "Longitude": -117.14962,    
+            "aqi": "-",  
+            "DominantPollutant": "", 
+            "datetime": "2020-01-26 21:00:00"    
+            },        
+            {          
+            "names": "Santa Cruz",       
+            "Latitude": 36.98401,      
+            "Longitude": -121.99097,   
+            "aqi": 46,     
+            "DominantPollutant": "pm25", 
+            "datetime": "2020-04-15 15:00:00"    
+            },  
+            {       
+            "names": "SANTIAGO",    
+            "Latitude": -33.422301,      
+            "Longitude": -70.651162,       
+            "aqi": 81,   
+            "DominantPollutant": "pm25",   
+            "datetime": "2020-04-15 21:00:00"   
+            },    
+            {      
+            "names": "Sao Paulo",  
+            "Latitude": -23.544845659,    
+            "Longitude": -46.627675592,  
+            "aqi": 42,  
+            "DominantPollutant": "pm25",     
+            "datetime": "2020-04-15 22:00:00"    
+            },     
+            {    
+            "names": "Sapporo",     
+            "Latitude": 43.0620958,    
+            "Longitude": 141.3543763,    
+            "aqi": 34,     
+            "DominantPollutant": "pm25",     
+            "datetime": "2020-04-16 10:00:00"      
+            },      
+            {         
+            "names": "Sendai", 
+            "Latitude": 38.268215,    
+            "Longitude": 140.8693558,     
+            "aqi": 13,    
+            "DominantPollutant": "pm25",            
+            "datetime": "2020-04-16 09:00:00"  
+            },
+            {
+            "names": "Seongnam",
+            "Latitude": 37.4449168,
+            "Longitude": 127.1388684,
+            "aqi": 74,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 10:00:00"
+            },
+            {
+            "names": "Seoul",
+            "Latitude": 37.566535,
+            "Longitude": 126.9779692,
+            "aqi": 85,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 10:00:00"
+            },
+            {
+            "names": "Shanghai",
+            "Latitude": 31.2047372,
+            "Longitude": 121.4489017,
+            "aqi": 122,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 08:00:00"
+            },
+            {
+            "names": "Shenyang",
+            "Latitude": 41.805698,
+            "Longitude": 123.431475,
+            "aqi": 187,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 08:00:00"
+            },
+            {
+            "names": "Shenzhen",
+            "Latitude": 22.543099,
+            "Longitude": 114.057868,
+            "aqi": 160,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 08:00:00"
+            },
+            {
+            "names": "Shiraz",
+            "Latitude": 29.6092966,
+            "Longitude": 52.5300873,
+            "aqi": 67,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 04:00:00"
+            },
+            {
+            "names": "SINGAPORE",
+            "Latitude": 1.296183,
+            "Longitude": 103.846181,
+            "aqi": 42,
+            "DominantPollutant": "pm25", 
+            "datetime": "2020-04-16 09:00:00" 
+            },
+            { 
+            "names": "SOFIA",
+            "Latitude": 42.7325,
+            "Longitude": 23.298611,
+            "aqi": 22,
+            "DominantPollutant": "pm10",
+            "datetime": "2020-04-16 02:00:00"
+            },
+            {
+            "names": "Soweto",
+            "Latitude": -26.252611,
+            "Longitude": 27.872139,
+            "aqi": 50,  
+            "DominantPollutant": "pm25", 
+            "datetime": "2020-04-14 10:00:00" 
+            },
+            {
+            "names": "St Petersburg",
+            "Latitude": 59.96903,
+            "Longitude": 30.28451,
+            "aqi": 28,
+            "DominantPollutant": "o3",
+            "datetime": "2020-04-16 04:00:00"
+            },
+            {
+            "names": "STOCKHOLM",
+            "Latitude": 59.34082695028323,
+            "Longitude": 18.05825368127835,
+            "aqi": 22,   
+            "DominantPollutant": "pm10", 
+            "datetime": "2020-04-16 01:00:00" 
+            },    
+            {
+            "names": "Suzhou", 
+            "Latitude": 31.298886, 
+            "Longitude": 120.585316, 
+            "aqi": 153,     
+            "DominantPollutant": "pm25",  
+            "datetime": "2020-04-16 08:00:00"  
+            },  
+            { 
+            "names": "Sydney", 
+            "Latitude": -33.872468, 
+            "Longitude": 151.213337,  
+            "aqi": 42, 
+            "DominantPollutant": "pm25", 
+            "datetime": "2020-04-16 10:00:00"  
+            },   
+            {   
+            "names": "Tabriz",   
+            "Latitude": 38.079304,  
+            "Longitude": 46.288699, 
+            "aqi": 97,
+            "DominantPollutant": "co",
+            "datetime": "2020-04-16 04:00:00"
+            },  
+            {
+            "names": "Taichung",
+            "Latitude": 24.099611,
+            "Longitude": 120.677689,
+            "aqi": 76,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 09:00:00"
+            },  
+            {
+            "names": "TAIPEI",
+            "Latitude": 25.062361,
+            "Longitude": 121.526528,
+            "aqi": 85,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 09:00:00"
+            },
+            {
+            "names": "Taiyuan",
+            "Latitude": 37.87059,            "Longitude": 112.548879,            "aqi": 163,            "DominantPollutant": "pm25",            "datetime": "2020-04-16 08:00:00"        },        {            "names": "Tangshan",            "Latitude": 39.630867,            "Longitude": 118.180194,            "aqi": 173,            "DominantPollutant": "pm25",            "datetime": "2020-04-16 08:00:00"        },        {            "names": "TASHKENT",            "Latitude": 41.3672,            "Longitude": 69.2725,            "aqi": 61,            "DominantPollutant": "pm25",            "datetime": "2020-04-16 05:00:00"        },        {            "names": "TBILISI",            "Latitude": 41.7017,            "Longitude": 44.87564,            "aqi": "-",            "DominantPollutant": "",            "datetime": ""        },        {            "names": "TEHRAN",            "Latitude": 35.703356,            "Longitude": 51.397764,            "aqi": 98,            "DominantPollutant": "pm25",            "datetime": "2020-04-16 04:00:00"        },        {            "names": "Tianjin",            "Latitude": 39.084158,            "Longitude": 117.200983,            "aqi": 175,            "DominantPollutant": "pm25",            "datetime": "2020-04-16 08:00:00"        },        {            "names": "Tijuana",            "Latitude": 32.528405555556,            "Longitude": -116.92079444444,            "aqi": 68,            "DominantPollutant": "pm25",            "datetime": "2019-09-23 10:00:00"        },        {            "names": "TOKYO",            "Latitude": 35.6414629,            "Longitude": 139.6981712,            "aqi": 21,            "DominantPollutant": "pm10",            "datetime": "2020-04-16 10:00:00"        },        {            "names": "Toronto",            "Latitude": 43.653226,            "Longitude": -79.3831843,            "aqi": 13,            "DominantPollutant": "pm25",            "datetime": "2020-04-15 20:00:00"        },        {            "names": "TSHWANE",            "Latitude": -25.740247,            "Longitude": 28.170315,            "aqi": 30,            "DominantPollutant": "pm25",            "datetime": "2020-04-16 03:00:00"        },        {            "names": "Ufa",            "Latitude": 55.03171,            "Longitude": 55.97249,            "aqi": 36,            "DominantPollutant": "pm25",            "datetime": "2020-04-16 00:00:00"        },        {            "names": "Ulsan",            "Latitude": 35.5383773,            "Longitude": 129.3113596,            "aqi": 57,            "DominantPollutant": "pm25",            "datetime": "2020-04-16 10:00:00"        },        {            "names": "Urumqi",            "Latitude": 43.825645,            "Longitude": 87.616823,            "aqi": 31,            "DominantPollutant": "pm10",            "datetime": "2020-04-16 08:00:00"        },        {            "names": "Valencia",            "Latitude": 39.458055555556,            "Longitude": -0.37666666666667,            "aqi": 46,            "DominantPollutant": "pm25",            "datetime": "2020-04-15 21:00:00"        },        {            "names": "Varanasi",            "Latitude": 25.35055556,            "Longitude": 82.97833333,            "aqi": 138,            "DominantPollutant": "o3",            "datetime": "2020-04-16 05:00:00"        },        {            "names": "Vienna",            "Latitude": 48.2167394444444,            "Longitude": 16.3809180555556,            "aqi": 38,            "DominantPollutant": "pm25",            "datetime": "2020-04-16 02:00:00"        },        {            "names": "WARSAW",            "Latitude": 52.225171,            "Longitude": 21.014783,            "aqi": 84,            "DominantPollutant": "pm25",            "datetime": "2020-04-15 23:00:00"        },        {            "names": "Wuhan",            "Latitude": 30.593099,            "Longitude": 114.305393,            "aqi": 117,            "DominantPollutant": "pm25",            "datetime": "2020-04-16 09:00:00"        },        {            "names": "Wuxi",            "Latitude": 31.490637,            "Longitude": 120.311143,            "aqi": 156,            "DominantPollutant": "pm25",            "datetime": "2020-04-16 08:00:00"        },        {            "names": "Xian",            "Latitude": 34.341568,            "Longitude": 108.940175,            "aqi": "-",            "DominantPollutant": "",            "datetime": ""        },        {            "names": "Xuzhou",            "Latitude": 34.20475,            "Longitude": 117.284072,            "aqi": 153,            "DominantPollutant": "pm25",            "datetime": "2020-04-16 08:00:00"        },        {            "names": "Yangon",            "Latitude": 16.8256,            "Longitude": 96.1445,            "aqi": 1,            "DominantPollutant": "o3",            "datetime": "2020-04-16 06:00:00"        },        {            "names": "Yokohama",            "Latitude": 35.4437078,            "Longitude": 139.6380256,            "aqi": 42,            "DominantPollutant": "pm25",            "datetime": "2020-04-16 08:00:00"        },        {            "names": "Zapopan",            "Latitude": 20.680450840176,            "Longitude": -103.39873310432,            "aqi": 43,            "DominantPollutant": "o3",            "datetime": "2020-04-15 20:00:00"        },        {            "names": "Zhengzhou",            "Latitude": 34.7466,            "Longitude": 113.625368,            "aqi": 109,            "DominantPollutant": "pm25",            "datetime": "2020-04-16 08:00:00"
+                
+            },
+            {
+            "names": "Zibo",
+            "Latitude": 36.813094,
+            "Longitude": 118.054868,
+            "aqi": 170,
+            "DominantPollutant": "pm25",
+            "datetime": "2020-04-16 08:00:00"       
+}    
+]}

@@ -1,0 +1,7163 @@
+{
+    "names": [
+        "Abidjan",
+        "ACCRA",
+        "Adana",
+        "ADDIS ABABA",
+        "Adelaide",
+        "Agra",
+        "Ahmadabad",
+        "Alexandria",
+        "ALGIERS",
+        "ALMATY",
+        "AMMAN",
+        "Amritsar",
+        "ANKARA",
+        "Anshan",
+        "BAGHDAD",
+        "Bangalore",
+        "BANGKOK",
+        "Baotou",
+        "Barcelona",
+        "BEIJING",
+        "Belem",
+        "BELGRADE",
+        "BERLIN",
+        "Bhopal",
+        "Birmingham",
+        "BOGOTA",
+        "BRASILIA",
+        "Brisbane",
+        "BUCHAREST",
+        "BUDAPEST",
+        "BUENOS AIRES",
+        "Bursa",
+        "Busan",
+        "Campinas",
+        "Changchun",
+        "Changsha",
+        "Changzhou",
+        "Chelyabinsk",
+        "Chengdu",
+        "Chennai",
+        "Chicago",
+        "CONAKRY",
+        "COPENHAGEN",
+        "Cordoba",
+        "Daegu",
+        "Daejon",
+        "Dalian",
+        "Dallas",
+        "Datong",
+        "DELHI",
+        "DHAKA",
+        "Dnipropetrovsk",
+        "Durban",
+        "Ecatepec",
+        "Foshan",
+        "Fukuoka",
+        "Fuzhou",
+        "Guadalajara",
+        "Guangzhou",
+        "Guarulhos",
+        "Guiyang",
+        "Gwangju",
+        "Haiphong",
+        "Hamburg",
+        "Handan",
+        "Hangzhou",
+        "HANOI",
+        "Haora",
+        "Harbin",
+        "Hefei",
+        "Hiroshima",
+        "Ho Chi Minh",
+        "Hong Kong",
+        "Houston",
+        "Hyderabad",
+        "Hyderabad",
+        "Incheon",
+        "Indore",
+        "Istanbul",
+        "Izmir",
+        "Jaipur",
+        "JAKARTA",
+        "Jeddah",
+        "Jilin",
+        "Jinan",
+        "Johannesburg",
+        "KABUL",
+        "Kanpur",
+        "Kaohsiung",
+        "Karachi",
+        "Kawasaki",
+        "KIEV",
+        "Kitakyushu",
+        "Kobe",
+        "Kolkata",
+        "Kowloon",
+        "KUALA LUMPUR",
+        "Kunming",
+        "Kyoto",
+        "Lahore",
+        "Lanzhou",
+        "Leon",
+        "LIMA",
+        "LONDON",
+        "Los Angeles",
+        "Lucknow",
+        "Ludhiana",
+        "Luoyang",
+        "MADRID",
+        "MANILA",
+        "Mashhad",
+        "Mecca",
+        "Medan",
+        "Medellin",
+        "Medina",
+        "Meerut",
+        "Melbourne",
+        "Mexicali",
+        "MEXICO CITY",
+        "Milan",
+        "Monterrey",
+        "Montreal",
+        "MOSCOW",
+        "Mumbai",
+        "Munich",
+        "Nagoya",
+        "Nagpur",
+        "Nanchang",
+        "Nanjing",
+        "Nanning",
+        "Napoli",
+        "Nashik",
+        "New York",
+        "Nezahualcoyotl",
+        "Nizhny Novgorod",
+        "Novosibirsk",
+        "Odessa",
+        "Osaka",
+        "Palembang",
+        "PARIS",
+        "Patna",
+        "Perth",
+        "Peshawar",
+        "Philadelphia",
+        "PHNOM PENH",
+        "Phoenix",
+        "PRAGUE",
+        "Puebla",
+        "Pune",
+        "Qingdao",
+        "Qiqihar",
+        "QUITO",
+        "Rawalpindi",
+        "RIYADH",
+        "ROME",
+        "Salvador",
+        "San Antonio",
+        "San Diego",
+        "Santa Cruz",
+        "SANTIAGO",
+        "Sao Paulo",
+        "Sapporo",
+        "Sendai",
+        "Seongnam",
+        "Seoul",
+        "Shanghai",
+        "Shenyang",
+        "Shenzhen",
+        "Shiraz",
+        "SINGAPORE",
+        "SOFIA",
+        "Soweto",
+        "St Petersburg",
+        "STOCKHOLM",
+        "Suzhou",
+        "Sydney",
+        "Tabriz",
+        "Taichung",
+        "TAIPEI",
+        "Taiyuan",
+        "Tangshan",
+        "TASHKENT",
+        "TBILISI",
+        "TEHRAN",
+        "Tianjin",
+        "Tijuana",
+        "TOKYO",
+        "Toronto",
+        "TSHWANE",
+        "Ufa",
+        "Ulsan",
+        "Urumqi",
+        "Valencia",
+        "Varanasi",
+        "Vienna",
+        "WARSAW",
+        "Wuhan",
+        "Wuxi",
+        "Xian",
+        "Xuzhou",
+        "Yangon",
+        "Yokohama",
+        "Zapopan",
+        "Zhengzhou",
+        "Zibo"
+    ],
+    "metadata": [
+        {
+            "names": "Abidjan",
+            "Latitude": 5.36,
+            "Longitude": -4.0083,
+            "aqi": 78,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "ACCRA",
+            "Latitude": 5.580642,
+            "Longitude": -0.170724,
+            "aqi": 61,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Adana",
+            "Latitude": 37.00545100691,
+            "Longitude": 35.34400793125,
+            "aqi": 22,
+            "DominantPollutant": "pm10"
+        },
+        {
+            "names": "ADDIS ABABA",
+            "Latitude": 9.058498,
+            "Longitude": 38.761642,
+            "aqi": 46,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Adelaide",
+            "Latitude": -34.929051,
+            "Longitude": 138.6092,
+            "aqi": 12,
+            "DominantPollutant": "pm10"
+        },
+        {
+            "names": "Agra",
+            "Latitude": 27.19865833,
+            "Longitude": 78.00598056,
+            "aqi": 3,
+            "DominantPollutant": "o3"
+        },
+        {
+            "names": "Ahmadabad",
+            "Latitude": 22.9987886,
+            "Longitude": 72.6029661,
+            "aqi": 90,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Alexandria",
+            "Latitude": 38.8577,
+            "Longitude": -77.05922,
+            "aqi": 24,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "ALGIERS",
+            "Latitude": 36.7558,
+            "Longitude": 3.039114,
+            "aqi": 46,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "ALMATY",
+            "Latitude": 43.222,
+            "Longitude": 76.851,
+            "aqi": 38,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "AMMAN",
+            "Latitude": 31.93544,
+            "Longitude": 35.94458,
+            "aqi": 34,
+            "DominantPollutant": "pm10"
+        },
+        {
+            "names": "Amritsar",
+            "Latitude": 31.6199803,
+            "Longitude": 74.8764849,
+            "aqi": 84,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "ANKARA",
+            "Latitude": 39.92727454762165,
+            "Longitude": 32.85941127954306,
+            "aqi": 67,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Anshan",
+            "Latitude": 41.108546,
+            "Longitude": 122.994646,
+            "aqi": 161,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "BAGHDAD",
+            "Latitude": 33.3128,
+            "Longitude": 44.3615,
+            "aqi": 74,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Bangalore",
+            "Latitude": 12.938539,
+            "Longitude": 77.5901,
+            "aqi": 91,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "BANGKOK",
+            "Latitude": 13.7563309,
+            "Longitude": 100.5017651,
+            "aqi": 82,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Baotou",
+            "Latitude": 40.657449,
+            "Longitude": 109.840347,
+            "aqi": 161,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Barcelona",
+            "Latitude": 41.38534,
+            "Longitude": 2.153822,
+            "aqi": 33,
+            "DominantPollutant": "o3"
+        },
+        {
+            "names": "BEIJING",
+            "Latitude": 39.954592,
+            "Longitude": 116.468117,
+            "aqi": 139,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Belem",
+            "Latitude": 31.768319,
+            "Longitude": 35.21371,
+            "aqi": 82,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "BELGRADE",
+            "Latitude": 44.79880556,
+            "Longitude": 20.4505555556,
+            "aqi": 40,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "BERLIN",
+            "Latitude": 52.52066,
+            "Longitude": 13.404954,
+            "aqi": 27,
+            "DominantPollutant": "o3"
+        },
+        {
+            "names": "Bhopal",
+            "Latitude": 23.233584,
+            "Longitude": 77.400574,
+            "aqi": 78,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Birmingham",
+            "Latitude": 52.486243,
+            "Longitude": -1.8901,
+            "aqi": 41,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "BOGOTA",
+            "Latitude": 4.5725,
+            "Longitude": -74.0836,
+            "aqi": 72,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "BRASILIA",
+            "Latitude": -23.618442773,
+            "Longitude": -46.556353938,
+            "aqi": 46,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Brisbane",
+            "Latitude": -27.4774,
+            "Longitude": 153.028,
+            "aqi": 23,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "BUCHAREST",
+            "Latitude": 44.435029,
+            "Longitude": 26.098609,
+            "aqi": 43,
+            "DominantPollutant": "pm10"
+        },
+        {
+            "names": "BUDAPEST",
+            "Latitude": 47.508605,
+            "Longitude": 19.02764,
+            "aqi": 26,
+            "DominantPollutant": "pm10"
+        },
+        {
+            "names": "BUENOS AIRES",
+            "Latitude": -34.657988,
+            "Longitude": -58.342538,
+            "aqi": 13,
+            "DominantPollutant": "o3"
+        },
+        {
+            "names": "Bursa",
+            "Latitude": 40.19572,
+            "Longitude": 29.04588,
+            "aqi": 103,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Busan",
+            "Latitude": 35.1795543,
+            "Longitude": 129.0756416,
+            "aqi": 72,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Campinas",
+            "Latitude": -22.902524804,
+            "Longitude": -47.057210743,
+            "aqi": 14,
+            "DominantPollutant": "pm10"
+        },
+        {
+            "names": "Changchun",
+            "Latitude": 43.816964,
+            "Longitude": 125.323471,
+            "aqi": 151,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Changsha",
+            "Latitude": 28.228209,
+            "Longitude": 112.938814,
+            "aqi": 91,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Changzhou",
+            "Latitude": 31.810077,
+            "Longitude": 119.974454,
+            "aqi": 155,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Chelyabinsk",
+            "Latitude": 55.17616,
+            "Longitude": 61.48267,
+            "aqi": 52,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Chengdu",
+            "Latitude": 30.6250145,
+            "Longitude": 104.0670559,
+            "aqi": 153,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Chennai",
+            "Latitude": 13.08784,
+            "Longitude": 80.27847,
+            "aqi": 55,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Chicago",
+            "Latitude": 41.9136,
+            "Longitude": -87.7239,
+            "aqi": "-",
+            "DominantPollutant": ""
+        },
+        {
+            "names": "CONAKRY",
+            "Latitude": 9.5951,
+            "Longitude": -13.6364,
+            "aqi": 78,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "COPENHAGEN",
+            "Latitude": 55.6750137,
+            "Longitude": 12.5693995,
+            "aqi": 46,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Cordoba",
+            "Latitude": 37.8935004,
+            "Longitude": -4.7711062,
+            "aqi": 31,
+            "DominantPollutant": "o3"
+        },
+        {
+            "names": "Daegu",
+            "Latitude": 35.8714354,
+            "Longitude": 128.601445,
+            "aqi": 76,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Daejon",
+            "Latitude": 36.3504119,
+            "Longitude": 127.3845475,
+            "aqi": 91,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Dalian",
+            "Latitude": 38.914003,
+            "Longitude": 121.614682,
+            "aqi": 165,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Dallas",
+            "Latitude": 32.82008,
+            "Longitude": -96.8601165,
+            "aqi": 30,
+            "DominantPollutant": "o3"
+        },
+        {
+            "names": "Datong",
+            "Latitude": 4076816,
+            "Longitude": 113.300126,
+            "aqi": 104,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "DELHI",
+            "Latitude": 28.63576,
+            "Longitude": 77.22445,
+            "aqi": 152,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "DHAKA",
+            "Latitude": 23.796373,
+            "Longitude": 90.424614,
+            "aqi": 119,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Dnipropetrovsk",
+            "Latitude": 48.458139,
+            "Longitude": 35.052214,
+            "aqi": 17,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Durban",
+            "Latitude": -29.858283,
+            "Longitude": 31.027286,
+            "aqi": 2,
+            "DominantPollutant": "so2"
+        },
+        {
+            "names": "Ecatepec",
+            "Latitude": 19.532968,
+            "Longitude": -99.0324,
+            "aqi": 97,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Foshan",
+            "Latitude": 23.021548,
+            "Longitude": 113.121416,
+            "aqi": 163,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Fukuoka",
+            "Latitude": 33.5903547,
+            "Longitude": 130.4017155,
+            "aqi": 42,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Fuzhou",
+            "Latitude": 26.074508,
+            "Longitude": 119.296494,
+            "aqi": 134,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Guadalajara",
+            "Latitude": 20.680450840176,
+            "Longitude": -103.39873310432,
+            "aqi": 57,
+            "DominantPollutant": "o3"
+        },
+        {
+            "names": "Guangzhou",
+            "Latitude": 23.141191,
+            "Longitude": 113.258374,
+            "aqi": 163,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Guarulhos",
+            "Latitude": -23.455534258,
+            "Longitude": -46.518533403,
+            "aqi": 42,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Guiyang",
+            "Latitude": 26.647661,
+            "Longitude": 106.630154,
+            "aqi": 107,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Gwangju",
+            "Latitude": 35.1595454,
+            "Longitude": 126.8526012,
+            "aqi": 95,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Haiphong",
+            "Latitude": 21.0357507,
+            "Longitude": 106.7641068,
+            "aqi": 20,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Hamburg",
+            "Latitude": 53.59235,
+            "Longitude": 1053724,
+            "aqi": 31,
+            "DominantPollutant": "o3"
+        },
+        {
+            "names": "Handan",
+            "Latitude": 36.625604,
+            "Longitude": 114.539085,
+            "aqi": 119,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Hangzhou",
+            "Latitude": 30.274085,
+            "Longitude": 120.15507,
+            "aqi": 89,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "HANOI",
+            "Latitude": 21.0215063,
+            "Longitude": 105.8188748,
+            "aqi": 162,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Haora",
+            "Latitude": 22.55664,
+            "Longitude": 88.342674,
+            "aqi": 73,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Harbin",
+            "Latitude": 45.7258,
+            "Longitude": 126.646,
+            "aqi": 34,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Hefei",
+            "Latitude": 31.821448,
+            "Longitude": 117.227271,
+            "aqi": 53,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Hiroshima",
+            "Latitude": 34.3852029,
+            "Longitude": 132.4552927,
+            "aqi": 25,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Ho Chi Minh",
+            "Latitude": 10.782978,
+            "Longitude": 106.700711,
+            "aqi": 122,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Hong Kong",
+            "Latitude": 22.2796569,
+            "Longitude": 114.1719873,
+            "aqi": 92,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Houston",
+            "Latitude": 29.686389,
+            "Longitude": -95.294722,
+            "aqi": 27,
+            "DominantPollutant": "o3"
+        },
+        {
+            "names": "Hyderabad",
+            "Latitude": 17.38405,
+            "Longitude": 78.45636,
+            "aqi": 117,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Hyderabad",
+            "Latitude": 17.38405,
+            "Longitude": 78.45636,
+            "aqi": 117,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Incheon",
+            "Latitude": 37.4562557,
+            "Longitude": 126.7052062,
+            "aqi": 85,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Indore",
+            "Latitude": 22.719444,
+            "Longitude": 75.870278,
+            "aqi": 142,
+            "DominantPollutant": "pm10"
+        },
+        {
+            "names": "Istanbul",
+            "Latitude": 41.014722,
+            "Longitude": 28.954722,
+            "aqi": 93,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Izmir",
+            "Latitude": 38.432222,
+            "Longitude": 27.144444,
+            "aqi": 23,
+            "DominantPollutant": "pm10"
+        },
+        {
+            "names": "Jaipur",
+            "Latitude": 26.9405166,
+            "Longitude": 75.80016,
+            "aqi": 108,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "JAKARTA",
+            "Latitude": -6.182536,
+            "Longitude": 106.834236,
+            "aqi": 76,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Jeddah",
+            "Latitude": 21.524667,
+            "Longitude": 39.2088,
+            "aqi": 42,
+            "DominantPollutant": "o3"
+        },
+        {
+            "names": "Jilin",
+            "Latitude": 43.837883,
+            "Longitude": 126.549572,
+            "aqi": 593,
+            "DominantPollutant": "pm10"
+        },
+        {
+            "names": "Jinan",
+            "Latitude": 36.650997,
+            "Longitude": 117.120497,
+            "aqi": 89,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Johannesburg",
+            "Latitude": -26.178666,
+            "Longitude": 28.13314,
+            "aqi": 34,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "KABUL",
+            "Latitude": 34.554382,
+            "Longitude": 69.2046,
+            "aqi": 30,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Kanpur",
+            "Latitude": 26.47088,
+            "Longitude": 80.3251749,
+            "aqi": 156,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Kaohsiung",
+            "Latitude": 22.608711,
+            "Longitude": 120.312017,
+            "aqi": 104,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Karachi",
+            "Latitude": 24.8415,
+            "Longitude": 67.0091,
+            "aqi": 84,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Kawasaki",
+            "Latitude": 35.53058,
+            "Longitude": 139.70511,
+            "aqi": 34,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "KIEV",
+            "Latitude": 50.444,
+            "Longitude": 30.54,
+            "aqi": 20,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Kitakyushu",
+            "Latitude": 33.8834093,
+            "Longitude": 130.8752161,
+            "aqi": 50,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Kobe",
+            "Latitude": 34.690083,
+            "Longitude": 135.1955112,
+            "aqi": 42,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Kolkata",
+            "Latitude": 22.56263,
+            "Longitude": 88.36304,
+            "aqi": 70,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Kowloon",
+            "Latitude": 22.396428,
+            "Longitude": 114.109497,
+            "aqi": 92,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "KUALA LUMPUR",
+            "Latitude": 3.139003,
+            "Longitude": 101.686855,
+            "aqi": 55,
+            "DominantPollutant": ""
+        },
+        {
+            "names": "Kunming",
+            "Latitude": 24.880182,
+            "Longitude": 102.832861,
+            "aqi": 99,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Kyoto",
+            "Latitude": 35.0116363,
+            "Longitude": 135.7680294,
+            "aqi": 21,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Lahore",
+            "Latitude": 31.560078,
+            "Longitude": 74.33589,
+            "aqi": 152,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Lanzhou",
+            "Latitude": 36.061255,
+            "Longitude": 103.834377,
+            "aqi": 158,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Leon",
+            "Latitude": 42.603888888889,
+            "Longitude": -5.587222222222,
+            "aqi": 31,
+            "DominantPollutant": "o3"
+        },
+        {
+            "names": "LIMA",
+            "Latitude": -12.053,
+            "Longitude": -77.04317,
+            "aqi": 35,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "LONDON",
+            "Latitude": 51.5073509,
+            "Longitude": -0.1277583,
+            "aqi": 32,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Los Angeles",
+            "Latitude": 34.06653,
+            "Longitude": -118.22676,
+            "aqi": 42,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Lucknow",
+            "Latitude": 26.84578611,
+            "Longitude": 80.93874444,
+            "aqi": 221,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Ludhiana",
+            "Latitude": 30.9019147,
+            "Longitude": 75.8077749,
+            "aqi": 109,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Luoyang",
+            "Latitude": 34.618452,
+            "Longitude": 112.45429,
+            "aqi": 155,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "MADRID",
+            "Latitude": 40.4167754,
+            "Longitude": -3.7037902,
+            "aqi": 17,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "MANILA",
+            "Latitude": 14.5995124,
+            "Longitude": 120.9842195,
+            "aqi": "-",
+            "DominantPollutant": ""
+        },
+        {
+            "names": "Mashhad",
+            "Latitude": 36.3382,
+            "Longitude": 59.5853,
+            "aqi": 40,
+            "DominantPollutant": "co"
+        },
+        {
+            "names": "Mecca",
+            "Latitude": 21.42463611,
+            "Longitude": 39.82916667,
+            "aqi": 30,
+            "DominantPollutant": "o3"
+        },
+        {
+            "names": "Medan",
+            "Latitude": 3.5951956,
+            "Longitude": 98.6722227,
+            "aqi": 26,
+            "DominantPollutant": "pm10"
+        },
+        {
+            "names": "Medellin",
+            "Latitude": 6.252763,
+            "Longitude": -75.569404,
+            "aqi": 28,
+            "DominantPollutant": "pm10"
+        },
+        {
+            "names": "Medina",
+            "Latitude": 24.491075,
+            "Longitude": 39.58805556,
+            "aqi": 22,
+            "DominantPollutant": "pm10"
+        },
+        {
+            "names": "Meerut",
+            "Latitude": 29.06351,
+            "Longitude": 77.709723,
+            "aqi": 194,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Melbourne",
+            "Latitude": -37.8073959,
+            "Longitude": 144.97,
+            "aqi": 57,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Mexicali",
+            "Latitude": 32.603638888889,
+            "Longitude": -115.4859444444,
+            "aqi": 181,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "MEXICO CITY",
+            "Latitude": 19.42461,
+            "Longitude": -99.119594,
+            "aqi": 59,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Milan",
+            "Latitude": 45.4701,
+            "Longitude": 9.19746075,
+            "aqi": 38,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Monterrey",
+            "Latitude": 25.73,
+            "Longitude": -100.30972222222,
+            "aqi": 33,
+            "DominantPollutant": "co"
+        },
+        {
+            "names": "Montreal",
+            "Latitude": 45.5086699,
+            "Longitude": -73.5539925,
+            "aqi": 9,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "MOSCOW",
+            "Latitude": 55.759354,
+            "Longitude": 37.595584,
+            "aqi": 14,
+            "DominantPollutant": "o3"
+        },
+        {
+            "names": "Mumbai",
+            "Latitude": 19.07283,
+            "Longitude": 72.88261,
+            "aqi": 78,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Munich",
+            "Latitude": 48.1351253,
+            "Longitude": 11.5819806,
+            "aqi": 14,
+            "DominantPollutant": "pm10"
+        },
+        {
+            "names": "Nagoya",
+            "Latitude": 35.1814464,
+            "Longitude": 136.906398,
+            "aqi": 55,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Nagpur",
+            "Latitude": 21.152875,
+            "Longitude": 79.0517531,
+            "aqi": 63,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Nanchang",
+            "Latitude": 28.683213,
+            "Longitude": 115.858121,
+            "aqi": 153,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Nanjing",
+            "Latitude": 32.0255,
+            "Longitude": 118.796877,
+            "aqi": 124,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Nanning",
+            "Latitude": 22.817239,
+            "Longitude": 108.366129,
+            "aqi": 107,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Napoli",
+            "Latitude": 40.85361,
+            "Longitude": 14.27167,
+            "aqi": 59,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Nashik",
+            "Latitude": 20073285,
+            "Longitude": 73.7762427,
+            "aqi": 73,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "New York",
+            "Latitude": 40.7127837,
+            "Longitude": -74.0059413,
+            "aqi": 9,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Nezahualcoyotl",
+            "Latitude": 19.34561,
+            "Longitude": -99.009381,
+            "aqi": 70,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Nizhny Novgorod",
+            "Latitude": 56.304354,
+            "Longitude": 43.983103,
+            "aqi": 73,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Novosibirsk",
+            "Latitude": 55.026021,
+            "Longitude": 82.907958,
+            "aqi": 174,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Odessa",
+            "Latitude": 46.39984,
+            "Longitude": 30.732417,
+            "aqi": 41,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Osaka",
+            "Latitude": 34.6937378,
+            "Longitude": 135.5021651,
+            "aqi": 46,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Palembang",
+            "Latitude": -2.9760735,
+            "Longitude": 104.7754307,
+            "aqi": 4,
+            "DominantPollutant": "pm10"
+        },
+        {
+            "names": "PARIS",
+            "Latitude": 48.856614,
+            "Longitude": 2.3522219,
+            "aqi": 18,
+            "DominantPollutant": "pm10"
+        },
+        {
+            "names": "Patna",
+            "Latitude": 25.619651,
+            "Longitude": 85.147382,
+            "aqi": 155,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Perth",
+            "Latitude": 56.396597,
+            "Longitude": -3.4324,
+            "aqi": 42,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Peshawar",
+            "Latitude": 34.00585,
+            "Longitude": 71.53775,
+            "aqi": 61,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Philadelphia",
+            "Latitude": 39.934635,
+            "Longitude": -75.126126,
+            "aqi": 35,
+            "DominantPollutant": "o3"
+        },
+        {
+            "names": "PHNOM PENH",
+            "Latitude": 11.516002,
+            "Longitude": 104.905362,
+            "aqi": "-",
+            "DominantPollutant": ""
+        },
+        {
+            "names": "Phoenix",
+            "Latitude": 33.4055555556,
+            "Longitude": -112.07527777778,
+            "aqi": 40,
+            "DominantPollutant": "o3"
+        },
+        {
+            "names": "PRAGUE",
+            "Latitude": 5094238,
+            "Longitude": 14.442049,
+            "aqi": 32,
+            "DominantPollutant": "o3"
+        },
+        {
+            "names": "Puebla",
+            "Latitude": 18.987361111111,
+            "Longitude": -98.277944444444,
+            "aqi": 50,
+            "DominantPollutant": "pm10"
+        },
+        {
+            "names": "Pune",
+            "Latitude": 18.536428,
+            "Longitude": 73.805453,
+            "aqi": 59,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Qingdao",
+            "Latitude": 36.067082,
+            "Longitude": 120.38264,
+            "aqi": 155,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Qiqihar",
+            "Latitude": 47.354348,
+            "Longitude": 123.918186,
+            "aqi": 134,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "QUITO",
+            "Latitude": -0.221393,
+            "Longitude": -78.514005,
+            "aqi": 28,
+            "DominantPollutant": "o3"
+        },
+        {
+            "names": "Rawalpindi",
+            "Latitude": 33.7235,
+            "Longitude": 73.11822,
+            "aqi": 76,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "RIYADH",
+            "Latitude": 24.644942,
+            "Longitude": 46.722333,
+            "aqi": 85,
+            "DominantPollutant": "o3"
+        },
+        {
+            "names": "ROME",
+            "Latitude": 41.8932669,
+            "Longitude": 12.4753855,
+            "aqi": 57,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Salvador",
+            "Latitude": 13.70630556,
+            "Longitude": -89.20011667,
+            "aqi": 78,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "San Antonio",
+            "Latitude": 29.4072945,
+            "Longitude": -98.431251,
+            "aqi": 34,
+            "DominantPollutant": "o3"
+        },
+        {
+            "names": "San Diego",
+            "Latitude": 32.70148,
+            "Longitude": -117.14962,
+            "aqi": "-",
+            "DominantPollutant": ""
+        },
+        {
+            "names": "Santa Cruz",
+            "Latitude": 36.98401,
+            "Longitude": -121.99097,
+            "aqi": 59,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "SANTIAGO",
+            "Latitude": -33.422301,
+            "Longitude": -70.651162,
+            "aqi": 79,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Sao Paulo",
+            "Latitude": -23.544845659,
+            "Longitude": -46.627675592,
+            "aqi": 30,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Sapporo",
+            "Latitude": 43.0620958,
+            "Longitude": 141.3543763,
+            "aqi": 55,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Sendai",
+            "Latitude": 38.268215,
+            "Longitude": 140.8693558,
+            "aqi": 13,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Seongnam",
+            "Latitude": 37.4449168,
+            "Longitude": 127.1388684,
+            "aqi": 109,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Seoul",
+            "Latitude": 37.566535,
+            "Longitude": 126.9779692,
+            "aqi": 117,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Shanghai",
+            "Latitude": 31.2047372,
+            "Longitude": 121.4489017,
+            "aqi": 97,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Shenyang",
+            "Latitude": 41.805698,
+            "Longitude": 123.431475,
+            "aqi": 190,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Shenzhen",
+            "Latitude": 22.543099,
+            "Longitude": 114.057868,
+            "aqi": 159,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Shiraz",
+            "Latitude": 29.6092966,
+            "Longitude": 52.5300873,
+            "aqi": 48,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "SINGAPORE",
+            "Latitude": 1.296183,
+            "Longitude": 103.846181,
+            "aqi": 46,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "SOFIA",
+            "Latitude": 42.7325,
+            "Longitude": 23.298611,
+            "aqi": 16,
+            "DominantPollutant": "pm10"
+        },
+        {
+            "names": "Soweto",
+            "Latitude": -26.252611,
+            "Longitude": 27.872139,
+            "aqi": 50,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "St Petersburg",
+            "Latitude": 59.96903,
+            "Longitude": 30.28451,
+            "aqi": 32,
+            "DominantPollutant": "o3"
+        },
+        {
+            "names": "STOCKHOLM",
+            "Latitude": 59.34082695028323,
+            "Longitude": 18.05825368127835,
+            "aqi": 14,
+            "DominantPollutant": "pm10"
+        },
+        {
+            "names": "Suzhou",
+            "Latitude": 31.298886,
+            "Longitude": 120.585316,
+            "aqi": 137,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Sydney",
+            "Latitude": -33.872468,
+            "Longitude": 151.213337,
+            "aqi": 52,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Tabriz",
+            "Latitude": 38.079304,
+            "Longitude": 46.288699,
+            "aqi": 97,
+            "DominantPollutant": "co"
+        },
+        {
+            "names": "Taichung",
+            "Latitude": 24.099611,
+            "Longitude": 120.677689,
+            "aqi": 153,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "TAIPEI",
+            "Latitude": 25.062361,
+            "Longitude": 121.526528,
+            "aqi": 89,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Taiyuan",
+            "Latitude": 37.87059,
+            "Longitude": 112.548879,
+            "aqi": 112,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Tangshan",
+            "Latitude": 39.630867,
+            "Longitude": 118.180194,
+            "aqi": 164,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "TASHKENT",
+            "Latitude": 41.3672,
+            "Longitude": 69.2725,
+            "aqi": 61,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "TBILISI",
+            "Latitude": 41.7017,
+            "Longitude": 44.87564,
+            "aqi": "-",
+            "DominantPollutant": ""
+        },
+        {
+            "names": "TEHRAN",
+            "Latitude": 35.703356,
+            "Longitude": 51.397764,
+            "aqi": 79,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Tianjin",
+            "Latitude": 39.084158,
+            "Longitude": 117.200983,
+            "aqi": 153,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Tijuana",
+            "Latitude": 32.528405555556,
+            "Longitude": -116.92079444444,
+            "aqi": 68,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "TOKYO",
+            "Latitude": 35.6414629,
+            "Longitude": 139.6981712,
+            "aqi": 11,
+            "DominantPollutant": "pm10"
+        },
+        {
+            "names": "Toronto",
+            "Latitude": 43.653226,
+            "Longitude": -79.3831843,
+            "aqi": 9,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "TSHWANE",
+            "Latitude": -25.740247,
+            "Longitude": 28.170315,
+            "aqi": 21,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Ufa",
+            "Latitude": 55.03171,
+            "Longitude": 55.97249,
+            "aqi": 78,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Ulsan",
+            "Latitude": 35.5383773,
+            "Longitude": 129.3113596,
+            "aqi": 50,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Urumqi",
+            "Latitude": 43.825645,
+            "Longitude": 87.616823,
+            "aqi": 38,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Valencia",
+            "Latitude": 39.458055555556,
+            "Longitude": -0.37666666666667,
+            "aqi": 34,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Varanasi",
+            "Latitude": 25.35055556,
+            "Longitude": 82.97833333,
+            "aqi": 168,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Vienna",
+            "Latitude": 48.2167394444444,
+            "Longitude": 16.3809180555556,
+            "aqi": 38,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "WARSAW",
+            "Latitude": 52.225171,
+            "Longitude": 21.014783,
+            "aqi": 55,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Wuhan",
+            "Latitude": 30.593099,
+            "Longitude": 114.305393,
+            "aqi": 76,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Wuxi",
+            "Latitude": 31.490637,
+            "Longitude": 120.311143,
+            "aqi": 155,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Xian",
+            "Latitude": 34.341568,
+            "Longitude": 108.940175,
+            "aqi": "-",
+            "DominantPollutant": ""
+        },
+        {
+            "names": "Xuzhou",
+            "Latitude": 34.20475,
+            "Longitude": 117.284072,
+            "aqi": 156,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Yangon",
+            "Latitude": 16.8256,
+            "Longitude": 96.1445,
+            "aqi": 65,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Yokohama",
+            "Latitude": 35.4437078,
+            "Longitude": 139.6380256,
+            "aqi": 21,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Zapopan",
+            "Latitude": 20.680450840176,
+            "Longitude": -103.39873310432,
+            "aqi": 57,
+            "DominantPollutant": "o3"
+        },
+        {
+            "names": "Zhengzhou",
+            "Latitude": 34.7466,
+            "Longitude": 113.625368,
+            "aqi": 93,
+            "DominantPollutant": "pm25"
+        },
+        {
+            "names": "Zibo",
+            "Latitude": 36.813094,
+            "Longitude": 118.054868,
+            "aqi": 153,
+            "DominantPollutant": "pm25"
+        }
+    ],
+    "samples": [
+        {
+            "names": "Abidjan",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                78,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "ACCRA",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                61,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Adana",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0.9,
+                16,
+                16.1,
+                22,
+                0,
+                6.5
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "ADDIS ABABA",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                46,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Adelaide",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0.3,
+                1.4,
+                0,
+                12,
+                6,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Agra",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                16.5,
+                3.2,
+                0,
+                144,
+                0.8
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Ahmadabad",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                3.5,
+                3.6,
+                5.3,
+                58,
+                90,
+                5.4
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Alexandria",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0.1,
+                1,
+                17.9,
+                0,
+                24,
+                0.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "ALGIERS",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                46,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "ALMATY",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                38,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "AMMAN",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                4.9,
+                0,
+                34,
+                0,
+                1.8
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Amritsar",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                8.2,
+                4.3,
+                9,
+                52,
+                84,
+                3.8
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "ANKARA",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                5,
+                53.1,
+                19.9,
+                42,
+                67,
+                4.2
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Anshan",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                13.6,
+                17,
+                72.7,
+                96,
+                161,
+                13.2
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "BAGHDAD",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                74,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Bangalore",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                11,
+                0.6,
+                33.7,
+                41,
+                91,
+                5.5
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "BANGKOK",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0.1,
+                5.2,
+                16.6,
+                34,
+                82,
+                0.6
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Baotou",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                6.4,
+                15.6,
+                30.1,
+                159,
+                161,
+                8.7
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Barcelona",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0.1,
+                5.1,
+                32.5,
+                11,
+                0.6
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "BEIJING",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                3.7,
+                11.9,
+                29.3,
+                62,
+                139,
+                1.6
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Belem",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                2.3,
+                9.9,
+                0,
+                31,
+                82,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "BELGRADE",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                4.5,
+                3.3,
+                0,
+                9,
+                40,
+                2.4
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "BERLIN",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                17.4,
+                26.9,
+                21,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Bhopal",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                5.3,
+                2.2,
+                13.8,
+                60,
+                78,
+                5.9
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Birmingham",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                5.6,
+                32.8,
+                16,
+                41,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "BOGOTA",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                3.7,
+                3.3,
+                11.4,
+                9,
+                72,
+                0.6
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "BRASILIA",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                2.8,
+                9.2,
+                18.7,
+                21,
+                46,
+                0.6
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Brisbane",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                12,
+                23,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "BUCHAREST",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                7.6,
+                0,
+                43,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "BUDAPEST",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                3.2,
+                4.3,
+                13,
+                26,
+                21,
+                2.4
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "BUENOS AIRES",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0.1,
+                0,
+                13,
+                3,
+                9,
+                2.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Bursa",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                18.9,
+                7,
+                50.3,
+                64,
+                103,
+                12
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Busan",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                8.9,
+                44.5,
+                28.9,
+                42,
+                72,
+                5.8
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Campinas",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                4.6,
+                0,
+                0,
+                14,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Changchun",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                7.3,
+                23.4,
+                7.8,
+                77,
+                151,
+                3.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Changsha",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                5.5,
+                19.7,
+                20.4,
+                34,
+                91,
+                5.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Changzhou",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                5.5,
+                19.7,
+                0,
+                80,
+                155,
+                6.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Chelyabinsk",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                16.6,
+                3.6,
+                22.3,
+                13,
+                52,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Chengdu",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                14.9,
+                33.4,
+                0.9,
+                78,
+                153,
+                3.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Chennai",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                55,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Chicago",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                13,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "CONAKRY",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                78,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "COPENHAGEN",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                1.8,
+                6.4,
+                31.9,
+                29,
+                46,
+                0.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Cordoba",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0.1,
+                1.9,
+                30.9,
+                10,
+                0.6
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Daegu",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                4.5,
+                16.7,
+                20.8,
+                29,
+                76,
+                5.8
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Daejon",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                3.4,
+                17.6,
+                21.6,
+                39,
+                91,
+                2.9
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Dalian",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                9.1,
+                10.6,
+                45.5,
+                77,
+                165,
+                6.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Dallas",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                5,
+                30.4,
+                0,
+                19,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Datong",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                35.3,
+                33.4,
+                28.1,
+                91,
+                104,
+                43.6
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "DELHI",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                152,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "DHAKA",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                119,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Dnipropetrovsk",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                6,
+                17,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Durban",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                12,
+                25,
+                1.7
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Ecatepec",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                11.2,
+                19.5,
+                28.9,
+                67,
+                97,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Foshan",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                9.1,
+                52.5,
+                0.9,
+                92,
+                163,
+                8.7
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Fukuoka",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                4.5,
+                6.5,
+                27.2,
+                11,
+                42,
+                1.5
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Fuzhou",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                6.4,
+                22.9,
+                83.2,
+                53,
+                134,
+                2.6
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Guadalajara",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                2.2,
+                5.8,
+                57.1,
+                31,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Guangzhou",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                10,
+                50.9,
+                1.7,
+                94,
+                163,
+                4.6
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Guarulhos",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                20.8,
+                20,
+                42,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Guiyang",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                6.4,
+                34.8,
+                48.8,
+                80,
+                107,
+                6.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Gwangju",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                5.6,
+                22.3,
+                13.6,
+                38,
+                95,
+                2.9
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Haiphong",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                9,
+                0,
+                12,
+                20,
+                24
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Hamburg",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0.1,
+                8.3,
+                30.9,
+                17,
+                21,
+                1.6
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Handan",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0.1,
+                18.8,
+                36.6,
+                68,
+                119,
+                7.6
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Hangzhou",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                7.3,
+                30.7,
+                12.2,
+                44,
+                89,
+                6.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "HANOI",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0.1,
+                5.5,
+                2.9,
+                0,
+                162,
+                3.6
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Haora",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                2.7,
+                4.8,
+                11.4,
+                41,
+                73,
+                4.2
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Harbin",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                6.4,
+                6,
+                65.6,
+                23,
+                34,
+                8.7
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Hefei",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                5.5,
+                10.1,
+                37.8,
+                30,
+                53,
+                3.6
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Hiroshima",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                2.3,
+                4.7,
+                21.6,
+                20,
+                25,
+                1.5
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Ho Chi Minh",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                122,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Hong Kong",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                8.3,
+                43.7,
+                17,
+                56,
+                92,
+                2.7
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Houston",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                2.3,
+                18.4,
+                27.2,
+                0,
+                17,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Hyderabad",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                117,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Hyderabad",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                117,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Incheon",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                7.8,
+                45.4,
+                13.6,
+                52,
+                85,
+                8.6
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Indore",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                7.5,
+                13,
+                15.5,
+                142,
+                144,
+                6.6
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Istanbul",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                2.1,
+                75.7,
+                12.8,
+                49,
+                93,
+                2.7
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Izmir",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                2.8,
+                0,
+                23,
+                0,
+                3
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Jaipur",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                2.8,
+                10.1,
+                15.4,
+                62,
+                108,
+                3.4
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "JAKARTA",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                7,
+                76,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Jeddah",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                1,
+                2,
+                42,
+                6,
+                0,
+                2
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Jilin",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                25.3,
+                36.6,
+                26,
+                593,
+                533,
+                51.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Jinan",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0.1,
+                7.8,
+                81.2,
+                59,
+                89,
+                6.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Johannesburg",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                9.9,
+                7.4,
+                0,
+                11,
+                34,
+                1.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "KABUL",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                30
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Kanpur",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                9,
+                18.1,
+                0,
+                156,
+                10.2
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Kaohsiung",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                4.8,
+                17.3,
+                42.1,
+                52,
+                104,
+                6
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Karachi",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                84,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Kawasaki",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                2.3,
+                7.5,
+                29.6,
+                7,
+                34,
+                1.5
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "KIEV",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                10,
+                20,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Kitakyushu",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                14.9,
+                24.8,
+                10,
+                50,
+                1.5
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Kobe",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                2.3,
+                7.5,
+                23.3,
+                6,
+                42,
+                1.5
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Kolkata",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                70,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Kowloon",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                8.3,
+                43.7,
+                17,
+                56,
+                92,
+                2.7
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "KUALA LUMPUR",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Kunming",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                10,
+                36.6,
+                8.2,
+                73,
+                99,
+                17.3
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Kyoto",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                2.3,
+                20.4,
+                21.6,
+                10,
+                21,
+                2.9
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Lahore",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                152,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Lanzhou",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                7.3,
+                31.1,
+                2.9,
+                143,
+                158,
+                8.7
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Leon",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0.1,
+                2.8,
+                31.3,
+                13,
+                0,
+                1.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "LIMA",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0.5,
+                20.2,
+                25.5,
+                14,
+                35,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "LONDON",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                3.2,
+                7.8,
+                17.2,
+                14,
+                32,
+                5.6
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Los Angeles",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                3,
+                8.4,
+                28.9,
+                20,
+                42,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Lucknow",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                4.8,
+                7.9,
+                2.3,
+                0,
+                221,
+                2.7
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Ludhiana",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                1.7,
+                7,
+                15.1,
+                78,
+                109,
+                4.9
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Luoyang",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                10.2,
+                37.1,
+                7.4,
+                95,
+                155,
+                10.2
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "MADRID",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0.1,
+                6.4,
+                20.4,
+                8,
+                17,
+                4.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "MANILA",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Mashhad",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                40,
+                0,
+                0,
+                7,
+                6,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Mecca",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                7,
+                2,
+                30,
+                29,
+                0,
+                9
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Medan",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                26,
+                0,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Medellin",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                28,
+                61,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Medina",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                7,
+                26,
+                86,
+                22,
+                0,
+                3
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Meerut",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                24.5,
+                14.7,
+                4.6,
+                167,
+                194,
+                7.6
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Melbourne",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0.7,
+                3.8,
+                14.5,
+                11,
+                57,
+                1.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Mexicali",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                28.8,
+                22.5,
+                0,
+                181,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "MEXICO CITY",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                8.9,
+                26,
+                49.6,
+                42,
+                59,
+                1.5
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Milan",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0.1,
+                18.8,
+                0,
+                12,
+                38,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Monterrey",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                32.7,
+                141.9,
+                0.8,
+                51,
+                9,
+                50.8
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Montreal",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                6.4,
+                3.7,
+                25,
+                9,
+                5.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "MOSCOW",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                1.2,
+                11.2,
+                14.4,
+                14,
+                13,
+                1.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Mumbai",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                78,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Munich",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0.1,
+                6.4,
+                32.5,
+                14,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Nagoya",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                3.4,
+                23.2,
+                5.6,
+                15,
+                55,
+                1.5
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Nagpur",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                3.3,
+                7.8,
+                18.6,
+                38,
+                63,
+                0.9
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Nanchang",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                4.6,
+                40.3,
+                5.7,
+                83,
+                153,
+                12.2
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Nanjing",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                3.7,
+                23.8,
+                0,
+                76,
+                124,
+                7.6
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Nanning",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                5.5,
+                17.9,
+                22.8,
+                53,
+                107,
+                5.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Napoli",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                3.7,
+                2.6,
+                0,
+                17,
+                59,
+                1.2
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Nashik",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                3.8,
+                9.3,
+                31.7,
+                47,
+                73,
+                2.6
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "New York",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                1.2,
+                2.8,
+                0,
+                0,
+                9,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Nezahualcoyotl",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                6.7,
+                4.7,
+                43.2,
+                0,
+                70,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Nizhny Novgorod",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                3,
+                7.3,
+                13.5,
+                25,
+                73,
+                25.2
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Novosibirsk",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                87,
+                174,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Odessa",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                15,
+                41,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Osaka",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0.1,
+                19.5,
+                14.5,
+                20,
+                46,
+                5.8
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Palembang",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                4,
+                0,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "PARIS",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0.1,
+                20.2,
+                30.6,
+                18,
+                51,
+                0.3
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Patna",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                5.7,
+                5.9,
+                18.9,
+                112,
+                155,
+                2.5
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Perth",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                3.2,
+                0,
+                20,
+                42,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Peshawar",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                61,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Philadelphia",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                2.3,
+                3.8,
+                35.2,
+                0,
+                16,
+                1.5
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "PHNOM PENH",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Phoenix",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                3.4,
+                4.7,
+                40,
+                7,
+                9,
+                0.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "PRAGUE",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                9.9,
+                31.6,
+                13,
+                30.7
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Puebla",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                13.8,
+                2.1,
+                47,
+                50,
+                2.8
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Pune",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                46,
+                5,
+                27,
+                58,
+                59,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Qingdao",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0.1,
+                17.9,
+                34.6,
+                88,
+                155,
+                4.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Qiqihar",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                5.5,
+                5.5,
+                33.8,
+                54,
+                134,
+                4.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "QUITO",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                3.5,
+                0,
+                28.3,
+                0,
+                14,
+                1.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Rawalpindi",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                76,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "RIYADH",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                97,
+                2,
+                85,
+                22,
+                0,
+                4
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "ROME",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                4.2,
+                30.9,
+                20,
+                57,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Salvador",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                78,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "San Antonio",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                33.6,
+                0,
+                19,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "San Diego",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                4.3,
+                13,
+                0,
+                8,
+                0,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Santa Cruz",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                1.8,
+                1.9,
+                21.6,
+                17,
+                59,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "SANTIAGO",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                8.2,
+                5.8,
+                41.7,
+                58,
+                79,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Sao Paulo",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                1.9,
+                11,
+                19.5,
+                17,
+                30
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Sapporo",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                2.3,
+                5.6,
+                26.4,
+                11,
+                55,
+                1.5
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Sendai",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0.1,
+                4.7,
+                32,
+                10,
+                13,
+                2.9
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Seongnam",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                8.9,
+                74,
+                1.6,
+                56,
+                109,
+                7.2
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Seoul",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                7.8,
+                38.9,
+                27.2,
+                57,
+                117,
+                4.3
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Shanghai",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                7.3,
+                19.7,
+                35.8,
+                64,
+                97,
+                5.6
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Shenyang",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                17.2,
+                25.2,
+                36.6,
+                112,
+                190,
+                22.3
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Shenzhen",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                6.4,
+                52,
+                43.1,
+                94,
+                159,
+                5.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Shiraz",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                30,
+                14,
+                0,
+                0,
+                48,
+                10
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "SINGAPORE",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                5,
+                0,
+                18,
+                21,
+                46,
+                2
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "SOFIA",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                1.9,
+                12.1,
+                16,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Soweto",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                11.6,
+                22,
+                50,
+                1.6
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "St Petersburg",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                1.8,
+                2.7,
+                32,
+                1,
+                5,
+                11.4
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "STOCKHOLM",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                5.6,
+                0,
+                14,
+                0,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Suzhou",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                2.8,
+                30.2,
+                0,
+                71,
+                137,
+                6.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Sydney",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                2.3,
+                23.2,
+                1.6,
+                24,
+                52,
+                1.5
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Tabriz",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                97,
+                52,
+                0,
+                59,
+                75,
+                3
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Taichung",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                5.6,
+                14.1,
+                23.9,
+                65,
+                153,
+                5.5
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "TAIPEI",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                4.4,
+                8.8,
+                37.6,
+                39,
+                89,
+                1.5
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Taiyuan",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                6.4,
+                45.3,
+                0.9,
+                75,
+                112,
+                4.6
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Tangshan",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0.1,
+                43.9,
+                16.7,
+                113,
+                164,
+                16.3
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "TASHKENT",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                61,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "TBILISI",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "TEHRAN",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                22,
+                34,
+                0,
+                0,
+                79,
+                18
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Tianjin",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                15.4,
+                19.2,
+                27,
+                61,
+                153,
+                8.7
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Tijuana",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                12.3,
+                20.7,
+                0,
+                68,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "TOKYO",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                3.4,
+                21.3,
+                28.1,
+                11,
+                1,
+                1.5
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Toronto",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                1.7,
+                3.8,
+                32,
+                9,
+                0.2
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "TSHWANE",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                8.8,
+                3.7,
+                9,
+                7,
+                21,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Ufa",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                4.4,
+                26.9,
+                16,
+                28,
+                78,
+                4.2
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Ulsan",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                7.8,
+                30.6,
+                16.8,
+                20,
+                50,
+                2.9
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Urumqi",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                4.6,
+                8.7,
+                19.5,
+                24,
+                38,
+                7.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Valencia",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0.1,
+                1,
+                43.5,
+                31,
+                34,
+                2.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Varanasi",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                12.8,
+                28.5,
+                0,
+                168,
+                13.7
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Vienna",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0.1,
+                3.7,
+                0,
+                11,
+                38,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "WARSAW",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                4.8,
+                16.4,
+                12,
+                39,
+                55,
+                2
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Wuhan",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                4.2,
+                32,
+                15.9,
+                17,
+                76,
+                3.6
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Wuxi",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                6.4,
+                27.5,
+                16,
+                73,
+                155,
+                4.6
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Xian",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Xuzhou",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                8.2,
+                22.9,
+                0,
+                72,
+                156,
+                5.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Yangon",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0,
+                0,
+                0.9,
+                0,
+                65,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Yokohama",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                1.2,
+                17.6,
+                11.2,
+                8,
+                21,
+                1.5
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Zapopan",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                2.2,
+                5.8,
+                57.1,
+                31,
+                0
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Zhengzhou",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                5.5,
+                42.1,
+                4.5,
+                61,
+                93,
+                6.1
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        },
+        {
+            "names": "Zibo",
+            "ptu_ids": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "sample_values": [
+                0.1,
+                19.7,
+                43.5,
+                76,
+                153,
+                16.3
+            ],
+            "ptu_labels": [
+                "CO",
+                "NO2",
+                "O3",
+                "PM10",
+                "PM25",
+                "SO2"
+            ]
+        }
+    ]
+}
